@@ -1,10 +1,5 @@
 ### Hi there 👋
-
-<!--
-**TonymedicineMDCT/TonymedicineMDCT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+I'm Tony, I'm Thai, I'm tnedutS
 - 🔭 I’m currently working on learning computer programing 🧑‍💻
 - 🌱 I’m just have a tiny planing to learn huge topic abt 'Telemedicine and infrastructure'...more specific con'd =P
 - 🤔 I’m looking for help with starting with any source of knowledge or basic knowledge ☺️
